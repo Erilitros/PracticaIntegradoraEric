@@ -1,0 +1,18 @@
+[
+  {
+    "matricula": "1111-ABC",
+    "marca": "Audi",
+    "modelo": "A3",
+    "año": 2020,
+    "kms_recorridos": 50000,
+    "categoriaMan": "Mecanico"
+  },
+  {
+    "matricula": "2222-XYZ",
+    "marca": "Seat",
+    "modelo": "Leon",
+    "año": 2022,
+    "kms_recorridos": 10000,
+    "categoriaMan": "Electrico"
+  }
+]
